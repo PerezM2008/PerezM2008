@@ -8,7 +8,7 @@
 
 ### _Prazer! Me chamo Matheus Perez._
 
-  _ Sou estudante de Desenvolvimento de Sistemas, pelo Serviço Nascional de Aprendizagem Industrial - SENAI, já certificado em Excel, e Redes - Implantação de Redes Locais pela Cisco Networking Academy. Tenho uma paixão especial em vencer desafios e conquistar experiências. E neste perfil deixo toda a linha evolutiva do meu aprendizado para alcançar meus objetivos._
+  _Sou estudante de Desenvolvimento de Sistemas, pelo Serviço Nascional de Aprendizagem Industrial - SENAI, já certificado em Excel, e Redes - Implantação de Redes Locais pela Cisco Networking Academy. Tenho uma paixão especial em vencer desafios e conquistar experiências. E neste perfil deixo toda a linha evolutiva do meu aprendizado para alcançar meus objetivos._
 
 <br>
 <!--Contatos-->
