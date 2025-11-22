@@ -58,7 +58,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
-
 <img 
     align="left" 
     alt="HTML"
@@ -131,7 +130,6 @@
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"
 />
-
 <img 
     align="left" 
     alt="HTML"
